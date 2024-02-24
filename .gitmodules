@@ -1,0 +1,3 @@
+[submodule "employee_manager"]
+	path = employee_manager
+	url = ../EmployeeManager/employee_manager
